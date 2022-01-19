@@ -243,3 +243,5 @@ img ~ p {
 .principal p:not(#missao) {
     background: orange;
 } exclui todos os parágrafos que não compõe 
+
+ width: calc(40% - (26px * 4); calculo no css
