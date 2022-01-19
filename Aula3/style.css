@@ -184,15 +184,33 @@ nav{
  .main em{
      font-style: italic;
  }
- .imagebenefits{
-     width: 60%;
- }
  .map{
-     padding: 3em 0;
+    padding: 3em 0;
+}
+.map p{
+    margin: 0 0 2em;
+    text-align: center;
+}
+.benefits{
+    padding: 3em 0;
+}
+ .content-benefits{
+     width: 640px;
+     margin: 0 auto;
  }
- .map p{
-     margin: 0 0 2em;
-     text-align: center;
+ .list-benefits{
+     width: 40%;
+     display: inline-block;
+     vertical-align: top;
+ }
+ .itens{
+     line-height: 1.5;
+ }
+ .itens:first-child{
+     font-weight: bold;
+ }
+ .image-benefits{
+     width: 60%;
  }
  .video{
      width: 560px;
