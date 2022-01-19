@@ -216,6 +216,9 @@ nav{
  .itens:first-child{
      font-weight: bold;
  }
+ .itens::before{
+     content: "★";
+ }
  .image-benefits{
      width: 60%;
  }
