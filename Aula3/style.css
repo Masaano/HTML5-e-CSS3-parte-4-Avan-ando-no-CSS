@@ -233,15 +233,15 @@ nav{
  /* 
  main > p {
     background: red; 
-} seleciona os filhos diretos
+} Seletor >, para acessar os filhos de determinado elemento
 img + p { 
     background: blue;
-} seleciona o primeiro parágrafo que sucede uma imagem
+} Seletor +, para acessar o primeiro irmão de determinado elemento.
 img ~ p {
     background: yellow
-} seleciona todos os parágrafos localizados depois de uma imagem
+} Seletor ~, para acessar todos os irmãos de determinado elemento.
 .principal p:not(#missao) {
     background: orange;
-} exclui todos os parágrafos que não compõe 
+} Seletor not, para acessar os elementos, exceto algum. 
 
  width: calc(40% - (26px * 4); calculo no css
