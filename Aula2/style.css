@@ -187,3 +187,10 @@ nav{
  .imagebenefits{
      width: 60%;
  }
+ .map{
+     padding: 3em 0;
+ }
+ .map p{
+     margin: 0 0 2em;
+     text-align: center;
+ }
