@@ -94,11 +94,9 @@ nav{
      margin-top: 20px;
  }
 
- main{
-     margin: 0 auto;
- }
  .main-contatos{
     width: 940px;
+    margin: 0 auto;
 
  }
 
@@ -160,9 +158,6 @@ nav{
  .banner{
      width: 100%;
  }
- .main-index{
-     width: 76%;
- }
  
  .main-title{
      text-align: center;
@@ -175,6 +170,12 @@ nav{
     float: left;
     margin: 0 20px 20px 0;
 }
+.main{
+    padding: 3em 0;
+    background-color: #fefefe;
+    width: 940px;
+    margin: 0 auto;
+}
  .main p{
      margin: 0 0 1em;
  }
@@ -186,6 +187,11 @@ nav{
  }
  .map{
     padding: 3em 0;
+    background: linear-gradient(#fefefe, #888888);
+}
+.map-content{
+    width: 940px;
+    margin: 0 auto;
 }
 .map p{
     margin: 0 0 2em;
@@ -193,6 +199,7 @@ nav{
 }
 .benefits{
     padding: 3em 0;
+    background-color: #888888
 }
  .content-benefits{
      width: 640px;
