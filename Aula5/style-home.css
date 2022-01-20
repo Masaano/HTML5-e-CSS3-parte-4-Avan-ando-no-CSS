@@ -1,0 +1,52 @@
+body{
+    background-color: white;
+    color: black;
+}
+
+.main-title{
+    padding-left: 20px;
+}
+
+.main{
+    background-color: #cccccc;
+    padding: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.centralize-title{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#mission{
+    font-size: 20px;
+}
+
+em strong{
+    color: red;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.benefits{
+    padding: 20px;
+}
+
+.imagebenefits{
+    width: 50%;
+}
